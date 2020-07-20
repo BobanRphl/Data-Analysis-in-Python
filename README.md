@@ -2,6 +2,9 @@
 
 This is a guided project as part of the Data Science course on DataQuest
 
+Language:
+  Python 3
+  
 Tools Used:
   Jupyter Notebook on Anaconda
   
