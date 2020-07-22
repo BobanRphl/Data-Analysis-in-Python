@@ -9,8 +9,8 @@ Tools Used:
   Jupyter Notebook on Anaconda
   
 Key concepts:
-  Cleaning data in Python
-  Data Analysis in Python
-  Object Oriented Programming in Python
+  Cleaning data in Python,
+  Data Analysis in Python,
+  Object Oriented Programming in Python,
   Working with Dates and Times in Python
  
